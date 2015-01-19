@@ -4,3 +4,5 @@ add global module support
 add node (CommonJS) module support
 add YUI module support
 use $scope.$on('$destroy', fn) (see: https://github.com/mgechev/angularjs-style-guide#directives)
+move CodePen to static site
+  http://codepen.io/troywarr/pen/qEmELK
