@@ -1,0 +1,6 @@
+add AMD module support
+add ES6 module support
+add global module support
+add node (CommonJS) module support
+add YUI module support
+use $scope.$on('$destroy', fn) (see: https://github.com/mgechev/angularjs-style-guide#directives)

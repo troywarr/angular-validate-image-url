@@ -1,0 +1,62 @@
+{
+  "name": "angular-validate-image-url",
+  "version": "0.1.0",
+  "description": "An AngularJS directive to validate an image URL.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/troywarr/angular-validate-image-url.git"
+  },
+  "keywords": [
+    "angular",
+    "ng",
+    "validate",
+    "validation",
+    "image",
+    "url",
+    "input",
+    "field",
+    "valid",
+    "size",
+    "dimensions",
+    "form",
+    "length",
+    "width",
+    "height",
+    "fallback",
+    "backup",
+    "default",
+    "placeholder",
+    "error",
+    "invalid"
+  ],
+  "author": "Troy Warr <troy3000@gmail.com> (http://troywarr.info/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/troywarr/angular-validate-image-url/issues"
+  },
+  "homepage": "https://github.com/troywarr/angular-validate-image-url",
+  "devDependencies": {
+    "coffee-script": "1.8.0",
+    "del": "1.1.1",
+    "gulp": "3.8.10",
+    "gulp-coffee": "^2.2.0",
+    "gulp-filesize": "0.0.6",
+    "gulp-notify": "2.1.0",
+    "gulp-plumber": "0.6.6",
+    "gulp-rename": "1.2.0",
+    "gulp-sourcemaps": "^1.3.0",
+    "gulp-uglify": "1.0.2",
+    "gulp-util": "3.0.2",
+    "gulp-wrap-umd": "^0.2.1"
+  },
+  "browser": {},
+  "browserify": {
+    "transform": [
+      "coffeeify"
+    ]
+  }
+}

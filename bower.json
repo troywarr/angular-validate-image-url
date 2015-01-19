@@ -1,0 +1,48 @@
+{
+  "name": "angular-validate-image-url",
+  "version": "0.1.0",
+  "homepage": "https://github.com/troywarr/angular-validate-image-url",
+  "authors": [
+    "Troy Warr <troy3000@gmail.com>"
+  ],
+  "description": "An AngularJS directive to validate an image URL.",
+  "main": "dist/index.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "angular",
+    "ng",
+    "validate",
+    "validation",
+    "image",
+    "url",
+    "input",
+    "field",
+    "valid",
+    "size",
+    "dimensions",
+    "form",
+    "length",
+    "width",
+    "height",
+    "fallback",
+    "backup",
+    "default",
+    "placeholder",
+    "error",
+    "invalid"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
